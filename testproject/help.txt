@@ -1,0 +1,7 @@
+Step to start a project:
+1. Project ko necessary files haru manage garne, tespaxi front-end haru milaune. 
+2. While starting back-end, 
+    At first, Do Datbase connection, by creating database in the mysql (phpmyadmin) and connect to the system 
+    using configuration file.
+
+    Now, you will be able to talk with database or use the database.
